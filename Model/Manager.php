@@ -1,6 +1,6 @@
 <?php
 
-namespace TrashPanda\CallableEventListeners;
+namespace TrashPanda\CallableEventListeners\Model;
 
 use Magento\Framework\Event;
 use Magento\Framework\Event\Observer;
