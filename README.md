@@ -12,7 +12,7 @@ $ php bin/magento setup:upgrade
 
 ## Usage
 
-Grab an instance of `\TrashPanda\CallableEventListeners\Model\Manager` either via DI or from the object manager:
+Grab an instance of `\TrashPanda\CallableEventListeners\Model\Manager` either via DI or from the object manager and pass an event name and a callable to the `listen` method.
 
 ```php
 
