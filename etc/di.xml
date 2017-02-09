@@ -1,5 +1,5 @@
 <config>
     <type name="\Magento\Framework\Event\Manager">
-        <plugin name="callable_event_listeners" type="TrashPanda\CallableEventListeners\ManagerPlugin"/>
+        <plugin name="callable_event_listeners" type="TrashPanda\CallableEventListeners\Model\ManagerPlugin"/>
     </type>
 </config>
