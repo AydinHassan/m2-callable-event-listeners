@@ -2,7 +2,7 @@
 
 namespace TrashPanda\CallableEventListeners\Model;
 
-use Magento\Framework\Event\Manager as MagentoEventManager;
+use Magento\Framework\Event\ManagerInterface as MagentoEventManager;
 
 /**
  * @author Aydin Hassan <aydin@wearejh.com>
